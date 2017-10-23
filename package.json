@@ -1,0 +1,13 @@
+{
+  "name": "typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate for using typescript with a node js environment",
+  "main": "build/index.js",
+  "scripts": {},
+  "author": "sapher",
+  "license": "WTFPL",
+  "devDependencies": {
+    "ts-loader": "^3.0.5",
+    "typescript": "^2.5.3"
+  }
+}
